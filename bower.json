@@ -1,0 +1,28 @@
+{
+    "name": "api-enforcer",
+    "version": "0.2.0",
+    "authors": [
+        "Dylan Kerr <blackknight@ucc.asn.au>"
+    ],
+    "description": "Provides constructors for validating jQuery clients and Express servers from a common JSON API specification.",
+    "main": "client.js",
+    "moduleType": [
+        "amd"
+    ],
+    "license": "ISC",
+    "date": "2016-08-12 21:46:14 +00:00",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components"
+    ],
+    "dependencies": {
+        "jquery": "^2.2.1",
+        "js-schema": "^1.0.1"
+    },
+    "homepage": "https://github.com/dylan-kerr/api-enforcer#readme",
+    "repository": {
+        "type": "git",
+        "url": "git//github.com/dylan-kerr/api-enforcer.git"
+    }
+}

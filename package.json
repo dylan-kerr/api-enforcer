@@ -1,0 +1,28 @@
+{
+  "name": "api-enforcer",
+  "version": "0.2.0",
+  "date": "2016-08-12 21:46:14 +00:00",
+  "description": "Provides constructors for validating jQuery clients and Express servers from a common JSON API specification.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "js-schema": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-bumpup": "^0.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dylan-kerr/api-enforcer.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Dylan Kerr <blackknight@ucc.asn.au>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylan-kerr/api-enforcer/issues"
+  },
+  "homepage": "https://github.com/dylan-kerr/api-enforcer#readme"
+}
